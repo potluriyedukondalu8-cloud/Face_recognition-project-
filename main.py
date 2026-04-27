@@ -1,11 +1,11 @@
 from deepface import DeepFace
 import cv2
 
-Known image path
+#Known image path
 
 known_image_path = "known.jpg"
 
-Open video
+#Open video
 
 video = cv2.VideoCapture("video.mp4")
 
