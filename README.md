@@ -1,2 +1,26 @@
-# Face_recognition-project-
-Simple face recognition system using OpenCV and DeepFace for real-time video processing
+# Face Recognition System using DeepFace
+
+## 📌 Description
+This project implements a simple face recognition system using Python.  
+It detects faces from a video and compares them with a known reference image.
+
+## 🚀 Features
+- Face detection using OpenCV Haarcascade
+- Face recognition using DeepFace
+- Real-time video processing
+- Displays result (Known / Unknown)
+
+## 🛠 Technologies Used
+- Python
+- OpenCV
+- DeepFace
+
+## 📂 Project Structure
+- main.py → main code
+- known.jpg → reference image
+- video.mp4 → input video
+
+## ⚙️ Installation
+
+```bash
+pip install -r requirements.txt
